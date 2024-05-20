@@ -1,4 +1,4 @@
-console.log("Testing By me")
+console.log("Testing By me");
 // working on Git tracking
-console.log("Second Commit ")
-console.log("third Commit ")
+console.log("Second Commit ");
+console.log("third Commit ");
